@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Opt>
+  <SourceDirectory>D:\isp\App1\SourceDirectory</SourceDirectory>
+  <TargetDirectory>D:\isp\App1\TargetDirectory</TargetDirectory>
+  <LogDirectory>D:\isp\App1\TargetDirectory\log.txt</LogDirectory>
+</Opt>
