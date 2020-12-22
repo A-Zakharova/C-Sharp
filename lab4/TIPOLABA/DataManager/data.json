@@ -1,0 +1,6 @@
+{
+  "ConnectionString": "Data Source = DESKTOP-TNC55TL; Initial Catalog = AdventureWorks2019; Integrated Security = True",
+  "LoggerConnectionString": "Data Source = DESKTOP-TNC55TL; Initial Catalog = ApplicationInsights; Integrated Security = True",
+  "SourceDirectory": "C:\\SourceDirectory",
+  "TargetDirectory": "C:\\TargetDirectory"
+}
